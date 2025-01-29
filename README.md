@@ -2,6 +2,6 @@
   <h1 align="center">Hi there, i'm Xarhabia 👋</h1>
 </div>
 
-#About me
+# About me
 <hr/>
 * 👨🏻‍💻 Backend developer
