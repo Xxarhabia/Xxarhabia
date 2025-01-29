@@ -3,4 +3,4 @@
 </div>
 
 # About me
-* 👨🏻‍💻 Backend developer
+Backend developer specialized in Java ☕. I have developed, maintained and improved different services implemented in POS (point of sale) devices 📱 which are part of distinguished banks 🏦 in different places in Latin America 🌎.
