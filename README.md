@@ -3,5 +3,4 @@
 </div>
 
 # About me
-<hr/>
 * 👨🏻‍💻 Backend developer
