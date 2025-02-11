@@ -6,9 +6,9 @@ Soy un desarrollador de software apasionado con más de 2 años de experiencia e
 
 ### 🌐 Tecnologías y Herramientas
 
-| Frontend | Backend | Bases de Datos | Cloud & Integraciones | Metodología                                     | Otros |
-| -------- | ------- | -------------- | --------------------- | ----------------------------------------------- | ----- |
-|          |         |                |                       | Microservicios, Scrum                           |       |
+| Frontend | Backend                  | Bases de Datos         | Cloud & Integraciones | Metodología            | Otros      |
+| -------- | ------------------------ | ---------------------- | --------------------- | ---------------------- | ---------- |
+| React    | Java, Sringboot, Node.js | Postgresql, SQL Server | AWS, GIT              | Microservicios, Scrum  | Sourcetree |
 
 ### 🧑‍💻 Proyectos Destacados
 
