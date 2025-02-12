@@ -13,7 +13,7 @@ Soy un desarrollador de software apasionado con más de 2 años de experiencia e
 ### 🧑‍💻 Proyectos Destacados
 
 - **Aplicaciones Web:** Desarrollo de interfaces responsivas e interactivas usando React.js y JavaScript.
-- **Servicios Backend:** Integración de servicios escalables y APIs REST con Spring Framework.
+- **Servicios Backend:** Integración de servicios escalables y APIs REST con Java y Spring Framework.
 - **Bases de Datos:** Gestión y optimización de datos usando PostgreSQL y SQL Server.
 
 ### 🚀 Objetivos Actuales
