@@ -18,13 +18,13 @@ Soy un desarrollador de software apasionado con más de 2 años de experiencia e
 
 ### 🚀 Objetivos Actuales
 
-- Continuar mi desarrollo en tecnologías de la nube como Azure.
-- Mejorar mis habilidades en arquitectura MVVM.
+- Continuar mi desarrollo en tecnologías de la nube como AWS.
+- Mejorar mis habilidades en arquitectura de microservicios.
 - Aprender nuevas metodologías para la gestión de proyectos ágiles.
 
 ### 🌱 En constante aprendizaje
 
-Actualmente, estoy fortaleciendo mis conocimientos en SQL Server, así como explorando nuevas posibilidades de integración y optimización de procesos.
+Actualmente, estoy fortaleciendo mis conocimientos en Spring y SQL Server, así como explorando nuevas posibilidades de integración y optimización de procesos.
 
 ### 📫 Conéctate conmigo:
 
